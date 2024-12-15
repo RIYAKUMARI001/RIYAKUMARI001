@@ -1,16 +1,17 @@
 # Hi there, I'm Riya Kumari! 👋  
-🌟 **Web Developer | Open Source Contributor | Problem Solver**
+🌟 **Web Developer | GSoC and Open Source Aspirations | Problem Solver**
 
 I’m a developer passionate about creating web apps, solving coding challenges, and contributing to open-source projects. I enjoy learning new technologies and turning ideas into impactful projects.
-
 
 ---
 
 ### 🚀 **What I'm Working On**
 - 🌦️ Building a **Weather App** with live forecasts and air quality data.
 - 🎵 Enhancing my **Spotify Clone** project using HTML, CSS, and Bootstrap.
+- 🛠️ Improving my **JavaScript** and **API handling** skills.
 - 💻 Exploring open-source opportunities through **Hacktoberfest** and beyond.
-- Improving my JavaScript, React, and API handling skills.
+- 🌍 Preparing for **GSoC 2024** to contribute to impactful open-source organizations.
+  
 
 ---
 
@@ -30,7 +31,8 @@ I’m a developer passionate about creating web apps, solving coding challenges,
 
 ### 💻 **My Projects**
 - 🎵 [Spotify Clone](https://github.com/RIYAKUMARI001/spotify-clone): A music interface built using **HTML** and **CSS**.  
-- ✅ [To-Do List](https://github.com/RIYAKUMARI001/To-do-list): A productivity app powered by **JavaScript**.  
+- ✅ [To-Do List](https://github.com/RIYAKUMARI001/To-do-list): A task management app with **JavaScript**.
+-  ♻️ [Recycling Service Booking Platform](https://github.com/RIYAKUMARI001/Nature-Nexus.git): A website to book aluminum/plastic waste recycling services and get the best deals.  
 
 
 ---
