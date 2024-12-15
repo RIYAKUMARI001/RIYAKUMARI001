@@ -1,7 +1,8 @@
 # Hi there, I'm Riya Kumari! 👋  
 🌟 **Web Developer | Open Source Contributor | Problem Solver**
 
-I enjoy turning ideas into functional and creative web apps, exploring open-source contributions, and continuously learning new technologies.  
+I’m a developer passionate about creating web apps, solving coding challenges, and contributing to open-source projects. I enjoy learning new technologies and turning ideas into impactful projects.
+
 
 ---
 
@@ -9,16 +10,20 @@ I enjoy turning ideas into functional and creative web apps, exploring open-sour
 - 🌦️ Building a **Weather App** with live forecasts and air quality data.
 - 🎵 Enhancing my **Spotify Clone** project using HTML, CSS, and Bootstrap.
 - 💻 Exploring open-source opportunities through **Hacktoberfest** and beyond.
+- Improving my JavaScript, React, and API handling skills.
 
 ---
 
 ### 🛠️ **Tech Stack**
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=red">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-VS%20Code-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Axios-green?style=for-the-badge&logo=axios&logoColor=white">
 </div>
 
 ---
@@ -26,7 +31,7 @@ I enjoy turning ideas into functional and creative web apps, exploring open-sour
 ### 💻 **My Projects**
 - 🎵 [Spotify Clone](https://github.com/RIYAKUMARI001/spotify-clone): A music interface built using **HTML** and **CSS**.  
 - ✅ [To-Do List](https://github.com/RIYAKUMARI001/To-do-list): A productivity app powered by **JavaScript**.  
-- 🌍 [Open Source Contributions](#): Check out my **Hacktoberfest 2024** pull requests.
+
 
 ---
 
