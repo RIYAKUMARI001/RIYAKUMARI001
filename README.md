@@ -38,10 +38,18 @@ I’m a developer passionate about creating web apps, solving coding challenges,
 ---
 
 ### 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIYAKUMARI001&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAKUMARI001&layout=compact&theme=radical" alt="Top Languages" height="150">
-</div>
+## 🌟 GitHub Stats
+![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIYAKUMARI001&show_icons=true&theme=radical)
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RIYAKUMARI001&layout=compact&theme=radical)
+
+## 📈 Contributions Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIYAKUMARI001&theme=radical)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RIYAKUMARI001&color=blue)
+
 
 ---
 
