@@ -2,14 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&random=false&width=800&height=140&lines=Frontend+Developer+%7C+UI/UX+Enthusiast;Open+Source+Contributor;Problem+Solver;Exploring+Crypto+and+Blockchain+Tech;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RIYAKUMARI001&style=flat-square&color=F7971E&label=Profile+Views" alt="Profile Views"/>
-  <a href="https://github.com/RIYAKUMARI001?tab=followers">
-    <img src="https://img.shields.io/github/followers/RIYAKUMARI001?style=flat-square&color=F7971E&logo=github" alt="Followers"/>
-  </a>
-  <a href="https://github.com/RIYAKUMARI001">
-    <img src="https://img.shields.io/github/stars/RIYAKUMARI001?style=flat-square&color=F7971E&logo=github" alt="Stars"/>
-  </a>
 </p>
 <div align="center">
   <details>
