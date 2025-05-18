@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Riya Kumari! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer;GSoC+%7C+Open+Source+Aspirant;Problem+Solver;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer;Open+Source+Contributor;Problem+Solver;Exploring+Crypto+and+Blockchain+Tech;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,8 +9,7 @@
 ### 🌟 About Me
 - 🧠 **Developer** passionate about building **impactful web apps**.
 - 🌱 Continuously **learning new tech** and **solving coding challenges**.
-- 🤝 Active contributor to **Open Source** projects.
-- 🎯 Preparing for **GSoC 2024** to contribute to meaningful organizations.
+- 🤝 Contributing to **Open Source** and exploring **blockchain & crypto** space.
 
 ---
 
@@ -18,13 +17,13 @@
 - 🌦️ **Weather App**: Live forecasts + air quality data.
 - 🎵 **Spotify Clone**: Responsive UI with Bootstrap.
 - 🛠️ Strengthening **JavaScript** and **API handling** skills.
-- 🌍 **Hacktoberfest** and **GSoC** open-source contributions.
+- 🌍 Contributing to open source initiatives and side projects.
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,git,github,vscode,nodejs,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,git,github,vscode,bootstrap,tailwind,materialui,ejs" alt="Tech Stack" />
 </div>
 
 ---
