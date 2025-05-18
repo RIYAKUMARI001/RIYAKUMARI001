@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Riya Kumari! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer;Open+Source+Contributor;Problem+Solver;Exploring+Crypto+and+Blockchain+Tech;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Web+Developer;Open+Source+Contributor;Problem+Solver;Exploring+Crypto+and+Blockchain+Tech;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 ---
