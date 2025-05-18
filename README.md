@@ -33,7 +33,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Spotify Clone](https://github.com/RIYAKUMARI001/spotify-clone) | 🎵 Music app UI clone. | HTML, CSS, Bootstrap |
-| [To-Do List](https://github.com/RIYAKUMARI001/To-do-list) | ✅ Manage daily tasks. | JavaScript |
+| [To-Do List](https://github.com/RIYAKUMARI001/to-do-list-React) | ✅ Manage daily tasks. | JavaScript |
 | [Recycling Platform](https://github.com/RIYAKUMARI001/Nature-Nexus.git) | ♻️ Schedule waste pickups. | HTML, CSS, JS |
 
 ---
