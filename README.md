@@ -57,6 +57,7 @@
 </div>
 
 ---
+[![An image of @riyakumari001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyakumari001)](https://holopin.io/@riyakumari001)
 
 ### 🐍 Contribution Snake
 <div align="center">
