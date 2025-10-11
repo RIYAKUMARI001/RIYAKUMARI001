@@ -1,23 +1,30 @@
-<!-- ✨ Modern GitHub Profile README for Riya Kumari ✨ -->
+<!-- 🌐 Modern & Responsive GitHub Profile README for Riya Kumari -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=F7971E&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Riya+Kumari+👋;Web+Developer+%7C+Open+Source+Contributor+%7C+Blockchain+Explorer;Turning+Ideas+into+Pixel+Perfect+Reality+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=900&color=F7971E&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Riya+Kumari+👋;Web+Developer+%7C+Open+Source+Contributor+%7C+Blockchain+Explorer;Turning+Ideas+into+Pixel+Perfect+Reality+🚀" alt="Typing Animation" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+  <table>
+    <tr>
+      <td width="60%" align="left">
+        <h3>🧭 About Me</h3>
+        <ul>
+          <li>🎯 Passionate <b>Web Developer</b> crafting impactful & user-centered experiences.</li>
+          <li>🧩 Solving real-world problems through <b>React</b>, <b>JavaScript</b>, and <b>APIs</b>.</li>
+          <li>🪄 Exploring <b>Blockchain</b>, <b>Web3</b>, and <b>AI-powered applications</b>.</li>
+          <li>🤝 Active in <b>Open Source</b> — contributing and learning from amazing devs.</li>
+          <li>🌱 Always curious and improving one commit at a time.</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="280" alt="3D Developer" />
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-### 🧭 About Me  
-
-🎯 Passionate **Web Developer** crafting **impactful & user-centered** web experiences.  
-🧩 Love solving real-world problems through **JavaScript**, **React**, and **APIs**.  
-🪄 Exploring **Blockchain**, **Web3**, and **AI-powered applications**.  
-💡 Always eager to learn, collaborate, and contribute to **open-source**.  
 
 ---
 
@@ -39,7 +46,7 @@
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RIYAKUMARI001&show_icons=true&theme=radical&hide_border=true" height="180em" />
@@ -56,13 +63,11 @@
 
 ---
 
-### 🪐 3D Developer Avatar  
+### 🪐 3D & Interactive Section  
 
 <div align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 </div>
-
-*(You can replace this GIF with a custom 3D model of yourself from [**https://my.spline.design/**](https://my.spline.design/) — export it as a looping GIF!)*
 
 ---
 
