@@ -101,4 +101,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E&height=120&section=footer&text=Thanks+for+visiting!+💛&fontSize=22&fontAlignY=60" />
+  ![GitLab Contributor Stats](https://contributors.gitlab.com/users/RIYAKUMARI001/banner.svg)
+
 </p>
