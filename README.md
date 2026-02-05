@@ -77,7 +77,8 @@
 
 ---
 
-[![GitLab Contributor Stats](https://contributors.gitlab.com/users/USERNAME/banner.svg)](https://contributors.gitlab.com/users/RIYAKUMARI001)
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/RIYAKUMARI001/banner.svg)](https://contributors.gitlab.com/users/RIYAKUMARI001)
+
 
 
 ###  Quote I Live By  
